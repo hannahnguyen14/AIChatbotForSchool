@@ -1,7 +1,7 @@
-## Lisska Center
+# Lisska Center
 The mission of the Lisska Center for Intellectual Engagement is to support research and scholarship, to foster intellectual community and academic enrichment among all Denisonians, and to provide an interdisciplinary space for the open exchange of ideas, perspectives, and arguments.
 
-# 1. Fellowships Advising
+### 1. Fellowships Advising
 The Lisska Center staff assists students and recent alumni in applying for nationally and internationally competitive fellowships at both the undergraduate and graduate levels. Fellowships fund summer programs, study abroad programs, service projects, and postgraduate study and research both in the U.S. and abroad.
 
 Examples of prestigious fellowships include the Rhodes Scholarship, the Marshall Scholarship, Fulbright awards, the Harry S. Truman Scholarship, the Barry M. Goldwater Scholarship in Science and Mathematics, the Morris K. Udall Scholarship in National Environmental Policy, National Science Foundation Fellowships, the Boren Scholarship for International Study, DAAD (German Academic Exchange) grants, and many others. Denison is proud of the many students and alumni who have won such awards over the years.
@@ -10,7 +10,7 @@ While some fellowship applications require an institutional endorsement and have
 
 The Lisska Center provides intensive one-on-one support to those applying for any fellowship or grant opportunity, helping applicants identify appropriate opportunities, prepare their application materials, and write their application essays. The Lisska Center also coaches fellowship competition finalists preparing for interviews.
 
-# 2. Summer Scholars Program
+### 2. Summer Scholars Program
 The Lisska Center coordinates Denison’s Summer Scholars Program. Each year, more than 120 students across all disciplines receive funding to support independent research under the close supervision of a faculty member, or full-time collaborative work with faculty members, during the summer. It gives students in all disciplines a unique undergraduate venue in which to experiment with ideas and artistic expression, pursue an intellectual passion, and focus intently on the resolution of a question over a sustained period of time. Summer Scholars projects do not confer credit hours and are not graded. All students must produce a scholarly project (e.g., final poster, paper, performance, or equivalent) and present their summer’s work in a public forum.
 
 Summer Scholars receive a stipend ($4,300 for 10 weeks in 2022), housing allowance, and supplemental research funds (up to $500 per student). Faculty advisors also receive a stipend per student supervised (three students maximum). 
@@ -51,7 +51,7 @@ Denison University Research Foundation (DURF) awards support students working as
 
 Student research may also be supported by outside grants received by faculty in various departments. Students receiving outside funding to conduct summer research (e.g., DURF Scholars, DAAD-RISE, etc.) may also be included as members of the Summer Scholars Program.​
 
-# 3. Academic Funding Opportunities
+### 3. Academic Funding Opportunities
 The Lisska Center serves as a hub for funding student research and academic enhancement travel. Specifically:
 
 The Course Enhancement Fund provides small amounts of funding to faculty members wishing to take a class on a field trip or other class activity.
@@ -60,7 +60,7 @@ The Undergraduate Research Fund provides up to $500 per student for conducting s
 The Academic Enhancement Travel Fund supports students traveling individually or in small groups with a Denison faculty or staff member to conduct research, attend a conference or workshop (where they are not presenting a paper), or engage in similar activities not covered by other sources of funding (up to $1,000 per student over their four years in college).
 The Lisska Center also administers a number of other Denison scholarships and awards, including the A. Blair Knapp Award, the Kenneth Joseph Hines Memorial Award, the Megan Lisska and Elin Lisska Christensen Award in the Humanities, and the Provost's Academic Excellence Award.
 
-# 4. Intellectual Programming
+### 4. Intellectual Programming
 The Lisska Center sponsors an array of programs and events designed to promote a culture of intellectual life on campus.
 
 Research Tables
